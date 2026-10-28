@@ -1,0 +1,25 @@
+packages/core/src/telemetry/loggers.test.ts
+  s_56bfc3af8616a0::t_59f48a45038497 2022-2072
+packages/core/src/telemetry/types.ts
+  s_56bfc3af8616a0::t_6497eacb09a855 244
+packages/core/src/tools/activate-skill.test.ts
+  s_56bfc3af8616a0::t_50d3a8b4544ede 130-132
+packages/core/src/tools/activate-skill.ts
+  s_56bfc3af8616a0::t_f142c13b553930 153-155
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "f665c62dbc2bfaffe8cbd0e0accd2c667a2d91a5",
+  "prompts": {},
+  "sessions": {
+    "s_56bfc3af8616a0": {
+      "agent_id": {
+        "tool": "gemini",
+        "id": "35a0b246-389f-4949-8633-7d3b54f5a66d",
+        "model": "gemini-3.8-flash"
+      },
+      "human_author": "eduardo-rodriguez-peya <luis.rodriguez@pedidosya.com>"
+    }
+  }
+}
